@@ -78,9 +78,10 @@ const AboutSection = () => {
                 <div className="flex">
                     <div className="border-l-2 border-solid border-gray-400 h-full"></div>
                     <div className="pl-4">
+                        {/* eslint-disable-next-line react/no-unescaped-entities */}
                         <p className="text-justify mb-3">
                             Collaboration with international researchers from Open University UK and UCSC, exploring the Effect of Labeling AI-Generated Content—Deepfakes in Social Media.
-                            <br></br><br />Supervised by Dr. Dilrukshi Gamage
+                            <br /><br />Supervised by Dr. Dilrukshi Gamage
                         </p>
                     </div>
                 </div>
