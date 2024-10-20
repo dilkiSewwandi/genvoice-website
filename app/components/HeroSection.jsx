@@ -28,7 +28,6 @@ const HeroSection = () => {
                             repeat={Infinity}
                         />
                     </h1>
-                    {/* eslint-disable-next-line react/no-unescaped-entities */}
                     <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
                         I am a passionate Software Developer and Research Enthusiast from Sri Lanka with a deep interest in Artificial Intelligence (AI), Human-Computer Interaction (HCI), and Software Engineering. My experience spans frontend development with Next.js and React, backend technologies such as Spring Boot, and working on collaborative projects that bring real-world applications to life.
                         <br /><br />
@@ -42,11 +41,16 @@ const HeroSection = () => {
                         In addition to my technical expertise, I am a strong team player and leader. As Industry Engagement Lead of the IEEE Student Branch of UCSC, and holding various roles in organizations like AIESEC and Rotaract, I have developed leadership and decision-making skills, ensuring successful collaborations and innovative outcomes.
                         I am always eager to learn and grow, applying my skills to solve real-world problems. I believe in the power of technology to create meaningful change, and I strive to ensure that innovations are inclusive, ethical, and equitable.
                     </p>
+
                     <div>
-                        <button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white mt-3'>
-                            <span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'>Download CV</span>
-                        </button>
+                        <a href="/images/Resume_Dilki_Sewwandi.pdf" download>
+                            <button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white mt-3'>
+                                <span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'>Download CV</span>
+                            </button>
+                        </a>
                     </div>
+
+
                 </div>
                 <div className='col-span-5 place-self-center mt-4 lg:mt-0'>
                     <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
