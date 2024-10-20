@@ -35,11 +35,11 @@ const HeroSection = () => {
                         <br></br>
                         <br></br>
 
-                        My recent research explores the Effect of Labeling AI-Generated Content—Deepfakes in Social Media. This research delves into the ethical, technological, and policy-related challenges of AI, which I find crucial in today&apos;s digital age.
+                        My recent research explores the Effect of Labeling AI-Generated Content—Deepfakes in Social Media. This research delves into the ethical, technological, and policy-related challenges of AI, which I find crucial in todays digital age.
                         <br></br>
                         <br></br>
 
-                        Throughout my journey, I&apos;ve actively participated in hackathons, ideathons, and research projects, driven by a curiosity about how technology can positively impact people&apos;s lives and empower communities. I seize every valuable opportunity through hard work and dedication, always striving to make the most of my experiences.
+                        Throughout my journey, I have actively participated in hackathons, ideathons, and research projects, driven by a curiosity about how technology can positively impact peoples lives and empower communities. I seize every valuable opportunity through hard work and dedication, always striving to make the most of my experiences.
                         <br></br>
                         <br></br>
 
