@@ -5,7 +5,6 @@ const AboutSection = () => {
         <section className="mt-7">
             <h1 className="text-5xl font-bold mt-20 mb-6">About Me</h1>
 
-            {/* Education Section */}
             <h5 className="text-4xl font-bold mb-10 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
                 Education
             </h5>
@@ -17,7 +16,6 @@ const AboutSection = () => {
                     <p>2022-2025</p>
                 </div>
 
-                {/* Right Column for BSc. in Computer Science */}
                 <div className="flex">
                     <div className="border-l-2 border-solid border-gray-400 h-full"></div>
                     <div className="pl-4">
@@ -34,7 +32,6 @@ const AboutSection = () => {
                     <p>2012-2020</p>
                 </div>
 
-                {/* Right Column for Secondary Education */}
                 <div className="flex">
                     <div className="border-l-2 border-solid border-gray-400 h-full"></div>
                     <div className="pl-4">
@@ -46,7 +43,6 @@ const AboutSection = () => {
                 </div>
             </div>
 
-            {/* Experience Section */}
             <h5 className="text-4xl font-bold mb-10 mt-20 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
                 Experience
             </h5>
@@ -58,7 +54,6 @@ const AboutSection = () => {
                     <p>February 2024 - Present</p>
                 </div>
 
-                {/* Right Column for UI Designer Description */}
                 <div className="flex">
                     <div className="border-l-2 border-solid border-gray-400 h-full"></div>
                     <div className="pl-4">
@@ -74,11 +69,9 @@ const AboutSection = () => {
                     <p>March 2024 - September 2024</p>
                 </div>
 
-                {/* Right Column for Research Assistant Description */}
                 <div className="flex">
                     <div className="border-l-2 border-solid border-gray-400 h-full"></div>
                     <div className="pl-4">
-                        {/* eslint-disable-next-line react/no-unescaped-entities */}
                         <p className="text-justify mb-3">
                             Collaboration with international researchers from Open University UK and UCSC, exploring the Effect of Labeling AI-Generated Content—Deepfakes in Social Media.
                             <br /><br />Supervised by Dr. Dilrukshi Gamage
