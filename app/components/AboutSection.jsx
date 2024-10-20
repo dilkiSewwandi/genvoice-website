@@ -12,7 +12,7 @@ const AboutSection = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
-                    <h1 className="text-xl font-semibold mb-1">Bachelor's Degree</h1>
+                    <h1 className="text-xl font-semibold mb-1">Bachelor&apos;s Degree</h1>
                     <p className="italic mb-3">University of Colombo</p>
                     <p>2022-2025</p>
                 </div>
