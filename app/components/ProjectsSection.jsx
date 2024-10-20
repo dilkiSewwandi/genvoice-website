@@ -32,7 +32,7 @@ const projects = [
     title: "Research",
     description: "Exploring the Effect of Labeling AI-Generated Content- Deepfakes in Social Media collaborating with International researchers at the Open University, UK and UCSC.",
     techStack: ["Qulatrics", "Prolific", "Canva"],
-    imageSrc: "/images/blog.jpeg",  
+    imageSrc: "/images/research.jpeg",  
   },
 
 ];
