@@ -26,7 +26,7 @@ const Login = ({ setIsLoggedIn }) => {
           <input
             type="text"
             value={username}
-            onChange={(event) => setUsername(e.target.value)}
+            onChange={(event) => setUsername(event.target.value)}
             className="border border-gray-300 p-3 rounded-lg mb-4 w-full text-gray-900 focus:border-blue-500 focus:ring-1 focus:ring-blue-500"
             required
           />
@@ -36,7 +36,7 @@ const Login = ({ setIsLoggedIn }) => {
           <input
             type="password"
             value={password}
-            onChange={(event) => setPassword(e.target.value)}
+            onChange={(event) => setPassword(event.target.value)}
             className="border border-gray-300 p-3 rounded-lg mb-4 w-full text-gray-900 focus:border-blue-500 focus:ring-1 focus:ring-blue-500"
             required
           />

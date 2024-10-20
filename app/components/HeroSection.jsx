@@ -35,16 +35,16 @@ const HeroSection = () => {
                         <br></br>
                         <br></br>
 
-                        My recent research explores the Effect of Labeling AI-Generated Content—Deepfakes in Social Media. This research delves into the ethical, technological, and policy-related challenges of AI, which I find crucial in today’s digital age.
+                        My recent research explores the Effect of Labeling AI-Generated Content—Deepfakes in Social Media. This research delves into the ethical, technological, and policy-related challenges of AI, which I find crucial in today&apos;s digital age.
                         <br></br>
                         <br></br>
 
-                        Throughout my journey, I’ve actively participated in hackathons, ideathons, and research projects, driven by a curiosity about how technology can positively impact people’s lives and empower communities. I seize every valuable opportunity through hard work and dedication, always striving to make the most of my experiences.
+                        Throughout my journey, I&apos;ve actively participated in hackathons, ideathons, and research projects, driven by a curiosity about how technology can positively impact people&apos;s lives and empower communities. I seize every valuable opportunity through hard work and dedication, always striving to make the most of my experiences.
                         <br></br>
                         <br></br>
 
                         In addition to my technical expertise, I am a strong team player and leader. As Industry Engagement Lead of the IEEE Student Branch of UCSC, and holding various roles in organizations like AIESEC and Rotaract, I have developed leadership and decision-making skills, ensuring successful collaborations and innovative outcomes.
-                        I’m always eager to learn and grow, applying my skills to solve real-world problems. I believe in the power of technology to create meaningful change, and I strive to ensure that innovations are inclusive, ethical, and equitable.
+                        I am always eager to learn and grow, applying my skills to solve real-world problems. I believe in the power of technology to create meaningful change, and I strive to ensure that innovations are inclusive, ethical, and equitable.
 
 
                     </p>
