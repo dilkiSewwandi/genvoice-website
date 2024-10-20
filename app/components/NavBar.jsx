@@ -33,6 +33,8 @@ const NavBar = () => {
                     className="text-2xl md:text-5xl text-white font-semibold"
                 >
                 </Link>
+
+                
                 <div className="mobile-menu block md:hidden">
                     {!navbarOpen ? (
                         <button
@@ -50,6 +52,8 @@ const NavBar = () => {
                         </button>
                     )}
                 </div>
+
+
                 <div className='menu hidden md:block md:w-auto' id='navbar'>
                     <ul className='flex p-4 md:p-0 md:flex-row md:space-x-8 mt-0 justify-end'>
                         {navLinks.map((link, index) => (
