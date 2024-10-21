@@ -1,7 +1,7 @@
-"use client"; // Ensure this is added at the top for the client-side component
+"use client"; 
 
 import React, { useState } from 'react';
-import { useRouter } from 'next/navigation'; // Import useRouter from next/navigation
+import { useRouter } from 'next/navigation'; 
 
 const SettingsPage = () => {
   const [currentPassword, setCurrentPassword] = useState('');
@@ -10,9 +10,8 @@ const SettingsPage = () => {
   const [error, setError] = useState('');
   const [success, setSuccess] = useState('');
 
-  const router = useRouter(); // Initialize useRouter
+  const router = useRouter(); 
 
-  // Simulated stored password
   const storedPassword = 'GenVoice123!';
 
   const handlePasswordChange = (event) => {
